@@ -1,8 +1,7 @@
 # PiratePrime
  Projeto Front-end
  
-Nada mais é do que um site de Streaming com expectativa nas ferramentas
-usadas no seu desenvolvimento, tais elas como:
+projeto site de Streaming criada com expectativa nas tecnologias:
 
 #BOOTSTRAP
 #JS
